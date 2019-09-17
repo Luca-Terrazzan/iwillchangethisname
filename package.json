@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Luca-Terrazzan/iwillchangethisname/issues"
   },
-  "homepage": "https://github.com/Luca-Terrazzan/iwillchangethisname#readme"
+  "homepage": "https://github.com/Luca-Terrazzan/iwillchangethisname#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/chrome": "0.0.88"
+  }
 }
