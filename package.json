@@ -1,0 +1,29 @@
+{
+  "name": "docibo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luca-Terrazzan/iwillchangethisname.git"
+  },
+  "author": "Luca Terrazzan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luca-Terrazzan/iwillchangethisname/issues"
+  },
+  "homepage": "https://github.com/Luca-Terrazzan/iwillchangethisname#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/chrome": "0.0.88",
+    "eslint": "^6.4.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
