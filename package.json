@@ -1,0 +1,19 @@
+{
+  "name": "docibo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luca-Terrazzan/iwillchangethisname.git"
+  },
+  "author": "Luca Terrazzan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luca-Terrazzan/iwillchangethisname/issues"
+  },
+  "homepage": "https://github.com/Luca-Terrazzan/iwillchangethisname#readme"
+}
